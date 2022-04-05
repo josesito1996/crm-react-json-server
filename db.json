@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Perez",
+      "empresa": "CESCA",
+      "email": "castillojose12031996@gmail.com",
+      "telefono": "962508776",
+      "notas": "cliente1\ncliente2",
+      "id": 1
+    },
+    {
+      "nombre": "Jose Luis",
+      "empresa": "Indra",
+      "email": "castillojose12031996@gmail.com",
+      "telefono": "962508776",
+      "notas": "Notas 1\nNotas 2\nNotas 3",
+      "id": 2
+    },
+    {
+      "nombre": "Carlos José",
+      "empresa": "BCP",
+      "email": "carlos@bcp.com.pe",
+      "telefono": "992894493",
+      "notas": "Notas 1\nNotas 2\nNotas 3\nNotas 4",
+      "id": 3
+    },
+    {
+      "nombre": "Alexis Joel",
+      "empresa": "NTT DATA",
+      "email": "carlos@nttdata.com.pe",
+      "telefono": "2867385",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Jose Castillo",
+      "empresa": "BCP",
+      "email": "josecastilloc@bcp.com.pe",
+      "telefono": "962508776",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Edgar Cuadroz",
+      "empresa": "INDRA",
+      "email": "edgar@gmail.com",
+      "telefono": "992894493",
+      "notas": "Solicita un servidor urgente.",
+      "id": 6
+    }
+  ]
+}
